@@ -1,0 +1,3 @@
+# Unexpected Behavior When Directly Modifying Instance Variables in Ruby
+
+This repository demonstrates a common issue in Ruby where directly modifying instance variables without defined setter methods can lead to unexpected behavior.  The `bug.rb` file contains code that illustrates the problem. The `bugSolution.rb` file provides a solution that uses proper setter methods for better maintainability and predictability.
